@@ -1,10 +1,10 @@
 {
-    "name": "voilaah/mallstats-plugin",
+    "name": "zdolf/mallstats-plugin",
     "description": "Basic statistics for OC Mall Plugin",
     "type": "october-plugin",
     "require": {
         "composer/installers": "~1.0",
-        "offline/oc-mall-plugin": "^2.0"
+        "offline/oc-mall-plugin": "^3.5"
     },
     "license": "MIT",
     "authors": [
